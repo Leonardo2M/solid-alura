@@ -1,5 +1,5 @@
 # solid-alura
-## Projeto referente ao curso de SOLID com Java da Alura.
+> Projeto referente ao curso de SOLID com Java da Alura.
 
 Neste projeto aprendi sobre os conceitos de **SOLID** aplicando em um projeto Java
 
