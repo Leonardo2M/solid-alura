@@ -2,7 +2,7 @@
 
 Este repositório contém exemplos de implementação dos princípios SOLID em Java, apresentados no curso de mesmo nome da plataforma Alura.
 
-## Princípios SOLID
+## Quais são os princípios SOLID ?
 
 - **S**ingle Responsibility Principle (Princípio da Responsabilidade Única)
 - **O**pen/Closed Principle (Princípio Aberto/Fechado)
